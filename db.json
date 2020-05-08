@@ -1,14 +1,190 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{"Lists":[
+    {
+        "title": "National Emergency Number",
+        "number": "112",
+        "location" : "India",
+        "img": "https://www.zhl.org.in/blog/wp-content/uploads/2017/02/Future-as-112-india-emergency-number.jpg"
+    }, {
+        "title": "Police",
+        "number": "100",
+        "location" : "India",
+        "img": "https://img.pngio.com/police-icon-png-418418-free-icons-library-police-icon-png-256_256.jpg"
+    }, {
+        "title": "Fire",
+        "number": "101",
+        "location" : "India",
+        "img": "https://www.pngitem.com/pimgs/m/115-1157631_fire-download-icon-transparent-background-flame-icon-hd.png"
+    }, {
+        "title": "Ambulance",
+        "number": "102",
+        "location" : "India",
+        "img": "https://www.pngkey.com/png/detail/210-2100606_ambulance-icon.png"
+    }, {
+        "title": "Disaster Management Service",
+        "number": "108",
+        "location" : "India",
+        "img": "https://www.vippng.com/png/detail/366-3664883_colorado-state-university-disaster-management-icon-png.png"
+    }, {
+        "title": "Women Helpline",
+        "number": "1091",
+        "location" : "India",
+        "img": "https://i.ya-webdesign.com/images/girl-avatar-png.png"
+    }, {
+        "title": "Women Helpline (Domestic Abuse)",
+        "number": "181",
+        "location" : "India",
+        "img": "https://i.ya-webdesign.com/images/girl-avatar-png.png"
+    }, {
+        "title": "Air Ambulance",
+        "number": "9540161344 ",
+        "location" : "India",
+        "img": "https://icons.iconarchive.com/icons/icons-land/transport/256/AirAmbulance-icon.png"
+    }, {
+        "title": "AIDS Helpline",
+        "number": "1097",
+        "location" : "India",
+        "img": "https://i.ya-webdesign.com/images/hiv-vector-pita-3.png"
+    }, {
+        "title": "Anti Poison",
+        "number": "1066 / 011-1066",
+        "location" : "India",
+        "img": "https://i.pinimg.com/originals/7a/20/45/7a2045fa274c84014e0b22c371ec9206.png"
+    }, {
+        "title": "Disaster Management (N.D.M.A)",
+        "number": "1078",
+        "location" : "India",
+        "img": "https://pbs.twimg.com/profile_images/486388520995397633/0SdnJoio_400x400.png"
+    }, {
+        "title": "Earthquake/Flood/Disaster(N.D.R.F Headquarters)",
+        "number": "011-24363260",
+        "location" : "India",
+        "img": "https://www.iconspng.com/images/flood/flood.jpg"
+    }, {
+        "title": "NDRF Helpline Number",
+        "number": "9711077372",
+        "location" : "India",
+        "img": "https://www.iconspng.com/images/flood/flood.jpg"
+    }, {
+        "title": "DCP Missing Child & Women",
+        "number": "1094",
+        "location" : "India",
+        "img": "https://img.favpng.com/16/0/20/missing-person-united-states-detective-police-private-investigator-png-favpng-KNMi0MQM0jexw4acEVBQfAsMj.jpg"
+    }, {
+        "title": "Railway Enquiry",
+        "number": "139",
+        "location" : "India",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/712E12DKsXL.png"
+    }, {
+        "title": "Senior Citizen Helpline",
+        "number": "1091/ 1291",
+        "location" : "India",
+        "img": "https://cdn-b.medlife.com/2020/03/preventive-health-check-ups-for-the-elderly.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Andhra Pradesh",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Gujrat",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Uttarakhand",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Goa",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Tamil Nadu",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Rajasthan",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Karnataka",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Assam",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Meghalaya",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Madhya Pradesh",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Medical Helpline",
+        "number": "108",
+        "location" : "Uttar Pradesh",
+        "img": "https://cdn3.iconfinder.com/data/icons/medical-3-11/64/206-512.png"
+    }, {
+        "title": "Railway Accident Emergency Service",
+        "number": "1072",
+        "location" : "India",
+        "img": "https://cdn.clipart.email/6ddd901c4ef57cd9dfe39e2ed4a753bc_indian-railways-logo-south-central-railway-indian-indian-_840-880.jpeg"
+    }, {
+        "title": "Road Accident Emergency Service",
+        "number": "1073",
+        "location" : "India",
+        "img": "https://cdn.iconscout.com/icon/premium/png-512-thumb/road-accident-738037.png"
+    }, {
+        "title": "Road Accident Emergency Service On National Highway For Private Operators",
+        "number": "1033",
+        "location" : "India",
+        "img": "https://cdn.iconscout.com/icon/premium/png-512-thumb/road-accident-738037.png"
+    },{
+        "title": "ORBO Centre, AIIMS (For Donation Of Organ)",
+        "number": "1060",
+        "location" : "Delhi",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/All_India_Institute_of_Medical_Sciences%2C_Delhi.svg/1200px-All_India_Institute_of_Medical_Sciences%2C_Delhi.svg.png"
+    },{
+        "title": "Kisan Call Centre",
+        "number": "1551",
+        "location" : "India",
+        "img": "https://content3.jdmagicbox.com/comp/varanasi/d9/0542px542.x542.130112125956.e6d9/catalogue/kisan-call-centre-kabir-chaura-varanasi-helplines-nrezalrzv7-250.jpg"
+    },{
+        "title": "Relief Commissioner For Natural Calamities",
+        "number": "1070",
+        "location" : "India",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/National_Disaster_Management_Authority_Logo.png/220px-National_Disaster_Management_Authority_Logo.png"
+    },{
+        "title": "Children In Difficult Situation",
+        "number": "1098",
+        "location" : "India",
+        "img": "https://i1.pngguru.com/preview/199/445/77/save-the-children-logo-organization-childrens-rights-charitable-organization-fundraising-convention-on-the-rights-of-the-child-christmas-jumper-day-woman-png-clipart.jpg"
+    },{
+        "title": "AIIMS Poison Control 24*7",
+        "number": "011-26593677, 26589391, 26583282",
+        "location" : "India",
+        "img": "https://www.myfirstcollege.com/wp-content/uploads/2019/02/aiims.png"
+    },{
+        "title": "Tourist Helpline",
+        "number": "1363 / 1800111363",
+        "location" : "India",
+        "img": "https://st2.depositphotos.com/7358038/10123/v/950/depositphotos_101232254-stock-illustration-map-pin-icon.jpg"
+    },{
+        "title": "LPG Leak Helpline",
+        "number": "1906",
+        "location" : "India",
+        "img": "https://toppng.com/uploads/preview/gas-burner-lpg-camp-cook-svg-icon-free-lpg-icon-11553415883jbv8aqcn4o.png"
+    }
+    
+    ]
 }
